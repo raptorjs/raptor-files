@@ -1,0 +1,28 @@
+{
+    "dependencies": [
+        {
+            "path": "files.js",
+            "if-extension": "server"
+        },
+        {
+            "path": "FileMixins.js",
+            "if-extension": "server"
+        },
+        {
+            "path": "File_node.js",
+            "if-extension": "node"
+        },
+        {
+            "path": "files_node.js",
+            "if-extension": "node"
+        },
+        {
+            "path": "File_rhino.js",
+            "if-extension": "rhino"
+        },
+        {
+            "path": "files_rhino.js",
+            "if-extension": "rhino"
+        }
+    ]
+}

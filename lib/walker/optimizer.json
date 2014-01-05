@@ -1,0 +1,6 @@
+{
+    "dependencies": [
+        "DirWalker.js",
+        "walker.js"
+    ]
+}
