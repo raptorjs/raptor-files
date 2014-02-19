@@ -1,6 +1,6 @@
 {
   "name": "raptor-files",
-  "version": "0.1.0-SNAPSHOT",
+  "version": "~0.1.0-SNAPSHOT",
   "description": "Utility functions for working with files on the server",
   "repository": {
     "type": "git",
@@ -12,8 +12,8 @@
   "author": "Patrick Steele-Idem <psteeleidem@ebay.com>",
   "maintainers": "Patrick Steele-Idem <psteeleidem@ebay.com>",
   "dependencies": {
-    "raptor-util": "0.1.0-SNAPSHOT",
-    "raptor-detect": "0.1.0-SNAPSHOT"
+    "raptor-util": "~0.1.0-SNAPSHOT",
+    "raptor-detect": "~0.1.0-SNAPSHOT"
   },
   "devDependencies": {
     "mocha": "~1.15.1",
