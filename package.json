@@ -1,6 +1,6 @@
 {
   "name": "raptor-files",
-  "version": "~0.1.0-SNAPSHOT",
+  "version": "0.1.0-SNAPSHOT",
   "description": "Utility functions for working with files on the server",
   "repository": {
     "type": "git",
